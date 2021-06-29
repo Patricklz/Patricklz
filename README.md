@@ -15,10 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Patricklz&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 ![Image of robot](https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricklz)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricklz&show_icons=true&theme=dark)
 
