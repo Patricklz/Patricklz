@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Image of robot](https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricklz)](https://github.com/anuraghazra/github-readme-stats)
+
