@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Image of robot](https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Patricklz&show_icons=true&theme=dark" />
@@ -22,13 +22,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
-
-
-![Image of robot](https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patricklz&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
