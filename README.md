@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Image of robot]
 (https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
