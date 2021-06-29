@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Image of robot]
-(https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
+![Image of robot](https://github.com/Patricklz/Patricklz/blob/main/robot.jpg)
